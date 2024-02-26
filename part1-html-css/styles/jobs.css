@@ -1,0 +1,32 @@
+main {
+    padding: 20px;
+}
+
+aside {
+    border: 1px solid rgb(0, 0, 0);
+    margin: 1em;
+    padding: 0.5em;
+    width: 25%;
+    float: right;
+}
+
+.job-description {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.job-description h2 {
+    font-size: 2em;
+    color: #ff0000;
+}
+
+.job-description h3 {
+    margin-top: 20px;
+}
+
+.job-description ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
